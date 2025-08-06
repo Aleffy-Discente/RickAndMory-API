@@ -3,7 +3,7 @@ API feita para o projeto do professor Hélio (Desenvolvimento para dispositivos 
 
 Este projeto consome a [API pública de Rick and Morty](https://rickandmortyapi.com/) e permite obter informações de um personagem ao inserir seu **ID**.
 
-🔍 Funcionalidade
+Funcionalidade
 
 Ao informar um número de ID, o sistema busca dados do personagem correspondente, como:
 
@@ -13,27 +13,27 @@ Ao informar um número de ID, o sistema busca dados do personagem correspondente
 - Localização
 - Imagem
 
-🚀 Tecnologias utilizadas
+Tecnologias utilizadas
 
 - Kotlin 
 - Android SDK (se for app Android)
 - Retrofit (para requisições HTTP)
 - JSON
 
-🧪 Exemplo de uso
+Exemplo de uso
 
 ID: 50
 
--Nome: Blim Blam
--Status: alive
--Localização: Earth (Replacement Dimension)
--Episode: 14
+- Nome: Blim Blam
+- Status: alive
+- Localização: Earth (Replacement Dimension)
+- Episode: 14
 
-🤝 Contribuições
+Contribuições
 
--Aleffy Kauê Araujo
--Felipe Bernardo Batista de Macedo
--Ivauir Silva da Rocha
+- Aleffy Kauê Araujo
+- Felipe Bernardo Batista de Macedo
+- Ivauir Silva da Rocha
 
 📄 Licença
 
