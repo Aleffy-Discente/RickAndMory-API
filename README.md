@@ -24,16 +24,16 @@ Ao informar um número de ID, o sistema busca dados do personagem correspondente
 
 ID: 50
 
-Nome: Blim Blam
-Status: alive
-Localização: Earth (Replacement Dimension)
-Episode: 14
+-Nome: Blim Blam
+-Status: alive
+-Localização: Earth (Replacement Dimension)
+-Episode: 14
 
 🤝 Contribuições
 
-Aleffy Kauê Araujo
-Felipe Bernardo Batista de Macedo
-Ivauir Silva da Rocha
+-Aleffy Kauê Araujo
+-Felipe Bernardo Batista de Macedo
+-Ivauir Silva da Rocha
 
 📄 Licença
 
